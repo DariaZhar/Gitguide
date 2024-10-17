@@ -8,9 +8,9 @@
 
 <p align="center">
 <kbd>
-  <img src="/images/Выбор-компонентов-установки-Git.png" />
+  <img src="/images/Выбор-компонентов-установки-Git.png" /
+  caption="Выбор компонентов установки">
 </kbd>
-<caption="Подпись под картинкой">
 </p>
 
 
