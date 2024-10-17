@@ -8,6 +8,13 @@
 
 ![Выбор компонентов установки](/images/Выбор-компонентов-установки-Git.png)
 
+
+<p align="center">
+<kbd>
+  <img src="/images/Выбор-компонентов-установки-Git.png" />
+</kbd>
+</p>
+
 <p align="center">
   <img src="/images/Выбор-компонентов-установки-Git.png" />
 </p>
