@@ -4,9 +4,13 @@
 
 ## Начало работы с Git
 
-### Установка и настройка Git
+### Установка и настройка Git на ОС Windows
 
-Насколько подробно?
+![Выбор компонентов установки](/images/Выбор-компонентов-установки-Git.png)
+
+<p align="center">
+  <img src="/images/Выбор-компонентов-установки-Git.png" />
+</p>
 
 ### Установка и настройка VS Code
 
@@ -21,6 +25,7 @@ cd C:/Users/user/Project
 git init
 git add .
 git commit -m "Initial project version"
+git push origin main
 ```
 
 #### Клонирование существующего репозитория
