@@ -10,10 +10,11 @@
 "Выбор компонентов установки Git")
 Выбор компонентов установки Git
 
-<kbd>
 <p align="center">
    <figure>
-    <img src="./images/Выбор-компонентов-установки-Git.png" alt="Выбор компонентов установки Git" />
+    <img src="./images/Выбор-компонентов-установки-Git.png" 
+    alt="Выбор компонентов установки Git"
+    border: 1px solid red />
     <figcaption>Выбор компонентов установки Git</figcaption>
     </figure>
 </p>
