@@ -10,13 +10,12 @@
 "Выбор компонентов установки Git")
 Выбор компонентов установки Git
 
-<p align="center">
 <kbd>
-<figure>
+<p align="center">
+   <figure>
     <img src="./images/Выбор-компонентов-установки-Git.png" alt="Выбор компонентов установки Git" />
     <figcaption>Выбор компонентов установки Git</figcaption>
     </figure>
-<kbd>
 </p>
 
 ### Установка VS Code на ОС Windows и знакомство с ним
