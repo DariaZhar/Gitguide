@@ -44,9 +44,7 @@
        <p align="center">
           <img src="./images/Git-выбор-компонентов-установки.png" 
            alt="Мастер установки Git. Выбор компонентов установки"/>
-       </p>
-       <p align="center">
-          <figcaption> Рисунок 1 — Мастер установки Git. Выбор компонентов установки</figcaption>
+                 <figcaption> Рисунок 1 — Мастер установки Git. Выбор компонентов установки</figcaption>
        </p>
    </figure>
    
